@@ -50,6 +50,8 @@
 34) Java Program to Display Even Numbers From 1 to 100
 35) Java Program to Display Odd Numbers From 1 to 100
 36) Java Program to Find Sum of Natural Numbers
+
+
 --------------------------------------------------------------------------Java Array Programs--------------------------------------------------------------------------
 1) Java Program to copy all elements of one array into another array
 2) Java Program to find the frequency of each element in the array
@@ -74,6 +76,8 @@
 21) Java Program to Remove Duplicate Element in an array
 22) Java Program to Print Odd and Even Numbers from an array
 23) How to Sort an Array in Java
+
+
 --------------------------------------------------------------------------Java Matrix Programs--------------------------------------------------------------------------
 1) Java Matrix Programs
 2) Java Program to Add Two Matrices
@@ -89,6 +93,8 @@
 12) Java Program to determine whether a given matrix is an identity matrix
 13) Java Program to determine whether a given matrix is a sparse matrix
 14) Java Program to Transpose matrix
+
+
 --------------------------------------------------------------------------Java String Programs--------------------------------------------------------------------------
 1) Java Program to count the total number of characters in a string
 2) Java Program to count the total number of characters in a string 2
@@ -117,12 +123,16 @@
 25) Java Program to print smallest and biggest possible palindrome word in a given string
 26) Reverse String in Java Word by Word
 27) Reserve String without reverse() function
+
+
 --------------------------------------------------------------------------Java Searching and Sorting Programs--------------------------------------------------------------------------
 1) Linear Search in Java
 2) Binary Search in Java
 3) Bubble Sort in Java
 4) Selection Sort in Java
 5) Insertion Sort in Java
+
+
 --------------------------------------------------------------------------Java Conversion Programs--------------------------------------------------------------------------
 1) How to convert String to int in Java
 2) How to convert int to String in Java
@@ -154,6 +164,8 @@
 28) How to convert Decimal to Hex in Java
 29) How to convert Octal to Decimal in Java
 30) How to convert Decimal to Octal in Java
+
+
 --------------------------------------------------------------------------Java Pattern programs--------------------------------------------------------------------------
 1) Java program to print the following spiral pattern on the console
 2) Java program to print the following pattern
@@ -173,6 +185,8 @@
 16) Java program to print the following pattern on the console 10
 17) Java program to print the following pattern on the console 11
 18) Java program to print the following pattern on the console 12
+
+
 --------------------------------------------------------------------------Java Singly Linked List Programs--------------------------------------------------------------------------
 1) Singly linked list Examples in Java
 2) Java Program to create and display a singly linked list
@@ -188,6 +202,8 @@
 12) Java program to insert a new node at the end of the singly linked list
 13) Java program to remove duplicate elements from a singly linked list
 14) Java Program to search an element in a singly linked list
+
+
 --------------------------------------------------------------------------Java Circular Linked List Programs--------------------------------------------------------------------------
 1) Java program to create and display a Circular Linked List
 2) Java program to create a Circular Linked List of N nodes and count the number of nodes
@@ -202,6 +218,8 @@
 11) Java program to remove duplicate elements from a Circular Linked List
 12) Java program to search an element in a Circular Linked List
 13) Java program to sort the elements of the Circular Linked List
+
+
 --------------------------------------------------------------------------Java Doubly Linked List Programs--------------------------------------------------------------------------
 1) Java program to convert a given binary tree to doubly linked list
 2) Java program to create a doubly linked list from a ternary tree
@@ -219,6 +237,8 @@
 14) Java program to rotate doubly linked list by N nodes
 15) Java program to search an element in a doubly linked list
 16) Java program to sort the elements of the doubly linked list
+
+
 --------------------------------------------------------------------------Java Tree Programs--------------------------------------------------------------------------
 1) Java Program to calculate the Difference between the Sum of the Odd Level and the Even Level Nodes of a Binary Tree
 2) Java program to construct a Binary Search Tree and perform deletion and In-order traversal
